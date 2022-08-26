@@ -15,12 +15,10 @@ const custom = [
         keywords: ["github"],
         skins: [
           {
-            // src: "./octocat.svg",
-            // src: { octoCat },
             src: "https://iconape.com/wp-content/png_logo_vector/github-octocat-logo.png",
           },
         ],
-        custom: true,
+        version: 1,
       },
     ],
   },
@@ -28,8 +26,6 @@ const custom = [
 
 const customCategoryIcons = {
   github: {
-    // src: "./octocat.svg",
-    // src: { octoCat },
     src: "https://iconape.com/wp-content/png_logo_vector/github-octocat-logo.png",
   },
 };
